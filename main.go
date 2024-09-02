@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/carolynvs/emote/emoticons"
+	"github.com/garybowen/emote/emoticons"
 	"github.com/spf13/cobra"
 )
 
